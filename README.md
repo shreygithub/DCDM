@@ -1,4 +1,4 @@
-# DCDM
+# DCDM (Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution)
 Abstract. Severe blurring of scene text images, resulting in the loss
 of critical strokes and textual information, has a profound impact on
 text readability and recognizability. Therefore, scene text image super-
