@@ -15,4 +15,6 @@ module has been used to align the high-resolution character-level text
 embeddings with low-resolution embeddings. This ensures visual align-
 ment with the semantics of scene text image characters. Our experiments
 on the TextZoom dataset demonstrate the superiority of the proposed
-method to state-of-the-art methods
+method to state-of-the-art methods.
+
+## code will be available soon....
